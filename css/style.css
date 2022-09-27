@@ -142,7 +142,7 @@ div.skip a:focus{
 first div in the grid  and place it in the grid. */
 .container div:first-child{
   grid-column: span 3;
-  background-image: url('header.jpg');
+  background-image: url('/header.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
